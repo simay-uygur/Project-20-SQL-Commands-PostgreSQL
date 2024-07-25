@@ -18,8 +18,6 @@ The queries are done on the dvdrental example database that PostgreSQL provided.
 
 ```sql
 
--- Active: 1721726315493@@localhost@5432@dvdrental@public
-
 -- TASK 1 
 (SELECT customer.first_name 
 FROM customer)
